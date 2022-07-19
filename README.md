@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <h1 align='center'>Bienvenidos a mi perfil de GitHub, soy Julian Pardeiro!</h1>
 
 <h2 align="center">Full Stack Developer 💻</h2>
-<br>
+
 <h3 align="center">Mi nombre es Julián Pardeiro, me apasiona programar, la música, la enseñanza y el aprendizaje constante.
 Soy muy competitivo y curioso buscando constantemente el desarrollo personal y de quienes me rodean.</h3><br>
-<br>
-<br>
+
+
 
 <h1 align="center">Mis skills</h1>
 <p align="center">
