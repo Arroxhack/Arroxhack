@@ -50,7 +50,8 @@ Soy muy competitivo y curioso buscando constantemente el desarrollo personal y d
 <img width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" alt='Julian Pardeiro' />
 <img width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt='Julian Pardeiro' />
 <img width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt='Julian Pardeiro' />
-<img width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt='Julian Pardeiro' />
+<img width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" alt='Julian Pardeiro' />
+
 
 
 </p>
