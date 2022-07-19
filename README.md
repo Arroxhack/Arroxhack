@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 <h2 align="center">Full Stack Developer 💻</h2>
 <br>
-<h3 align="center">Mi nombre es David Barrios, me forme como Full Stack web developer en Henry.</h3><br>
+<h3 align="center">Mi nombre es Julián Pardeiro, me apasiona programar, la música, la enseñanza y el aprendizaje constante.
+Soy muy competitivo y curioso buscando constantemente el desarrollo personal y de quienes me rodean.</h3><br>
 <h3 align="center">
 Para mi la comunicación y el trabajo en equipo es esencial para poder crecer como desarrollador. Soy proactivo y metódico, siempre busco nuevos retos y me adapto fácilmente a los cambios, estoy abierto a aprender nuevas tecnologías y lenguajes.
 </h3>
