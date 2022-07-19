@@ -88,10 +88,10 @@ Soy muy competitivo y curioso buscando constantemente el desarrollo personal y d
 <br>
  <h1 align="center">Contacto</h1>
 <p align="center">
-<a href="https://www.linkedin.com/in/david-barrios-fullstack/">
+<a href="https://www.linkedin.com/in/julian-pardeiro-20b8b268/">
 <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt='Julian Pardeiro'/>
 </a>
-<a href="mailto:dev.dabarrio@gmail.com">
+<a href="mailto:julian.sonido@gmail.com">
 <img width="5%" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt='Julian Pardeiro'/>
 </a>
 </p>
