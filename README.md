@@ -64,8 +64,8 @@ Soy muy competitivo y curioso buscando constantemente el desarrollo personal y d
 <a href="https://pg-rgb-store-three.vercel.app/">
  <img width="30%" src="./STORE.jpg"/>
  </a>
- <a href="https://blogcafe-db.netlify.app/">
- <img width="30%" src="./images/CAFE.jpg"/>
+ <a href="https://github.com/Arroxhack/Pi-Dogs">
+ <img width="30%" src="Dogs app.png"/>
  </a>
  <a href="https://frontedstore-db.netlify.app/">
  <img width="30%" src="./images/STORE.jpg"/>
