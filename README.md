@@ -62,7 +62,7 @@ Soy muy competitivo y curioso buscando constantemente el desarrollo personal y d
  
 <p align='center'>
 <a href="https://freelancer-db.netlify.app/">
- <img width="30%" src="./images/FREELANCE.jpg"/>
+ <img width="30%" src="./RGB STORE.png"/>
  </a>
  <a href="https://blogcafe-db.netlify.app/">
  <img width="30%" src="./images/CAFE.jpg"/>
