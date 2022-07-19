@@ -15,59 +15,87 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Hi, I'm Wanda](https://github.com/WanCirone/wancirone/blob/main/assets/hi.gif)
+<h1 align='center'>Bienvenidos a mi perfil de GitHub, soy Julian Pardeiro!</h1>
 
-<h2 align="center">
-Full Stack Developer :heart: from Argentina to :earth_americas:
-</h2>
+<h2 align="center">Full Stack Developer 💻</h2>
+<br>
+<h3 align="center">Mi nombre es David Barrios, me forme como Full Stack web developer en Henry.</h3><br>
+<h3 align="center">
+Para mi la comunicación y el trabajo en equipo es esencial para poder crecer como desarrollador. Soy proactivo y metódico, siempre busco nuevos retos y me adapto fácilmente a los cambios, estoy abierto a aprender nuevas tecnologías y lenguajes.
+</h3>
+<br>
+<br>
 
-&nbsp;&nbsp;
+<h1 align="center">Mis skills</h1>
+<p align="center">
+<img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt='David Barrios' />
+<img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt='David Barrios' />
+<img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt='David Barrios' />
+<img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt='David Barrios' />
+<img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt='David Barrios' />
+<img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt='David Barrios' />
+<img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" alt='David Barrios' />
+<img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt='David Barrios' />
+<img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt='David Barrios' />
+  <br><br>
+ <img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt='David Barrios' />
+<img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt='David Barrios' />
+<img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt='David Barrios' />
+<img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" alt='David Barrios' />
+<img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt='David Barrios' />
+<img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" alt='David Barrios' />
+<img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt='David Barrios' />
+<img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt='David Barrios' />
+<img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" alt='David Barrios' />
+  <br><br>
+<img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" alt='David Barrios' />
+<img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" alt='David Barrios' />
+<img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt='David Barrios' />
+<img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt='David Barrios' />
+<img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt='David Barrios' />
+<img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain-wordmark.svg" alt='David Barrios' />
+<img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt='David Barrios' />
+<img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original-wordmark.svg" alt='David Barrios' />
 
+</p>
+<br>
+<br>
 
-## :star: Languages and Tools:
+ <h1 align="center">Mis proyectos</h1>
+ 
+<p align='center'>
+<a href="https://freelancer-db.netlify.app/">
+ <img width="30%" src="./images/FREELANCE.jpg"/>
+ </a>
+ <a href="https://blogcafe-db.netlify.app/">
+ <img width="30%" src="./images/CAFE.jpg"/>
+ </a>
+ <a href="https://frontedstore-db.netlify.app/">
+ <img width="30%" src="./images/STORE.jpg"/>
+ </a>
+ </p>
 
-<p>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/1200px-Devicon-css3-plain.svg.png"></code>
-  <code><img width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/javascript-1.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-  <code><img width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/material-ui-1.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="10%" height="45" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <code><img  width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/expressjs.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"></code>
-  <br />
+<br>
+
+<p align='center'>
+<a href="https://dabarrio-todo-app.netlify.app/">
+ <img width="30%" src="./images/todoApp.jpg"/>
+ </a>
+<a href="https://dabarrio-pi-dogs.vercel.app/">
+ <img width="30%" src="./images/dabarrio-PI.jpg"/>
+ </a>
+<a href="https://pg-rgb-store-three.vercel.app/">
+ <img width="30%" src="./images/PF.jpg"/>
+ </a>
 </p>
 
-&nbsp;
-
-## :pushpin: My proyects
-
-<p>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/home.png"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/catalogo.png"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/tablaordenes.png"></a>
+<br>
+ <h1 align="center">Contacto</h1>
+<p align="center">
+<a href="https://www.linkedin.com/in/david-barrios-fullstack/">
+<img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt='David Barrios'/>
+</a>
+<a href="mailto:dev.dabarrio@gmail.com">
+<img width="5%" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt='David Barrios'/>
+</a>
 </p>
-<p>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/carrito.png"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/reviews.png"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/average.png"></a>
-</p>
-
-<h3>Pedidotopia</h3>
-<p>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/pedidotopia/tabla.jpg"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/pedidotopia/nuevoprod.png"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/pedidotopia/imagen.png"></a>
-</p> 
-&nbsp;
-
-## :paperclip: How to reach me:
-<span >
-<a href="https://www.linkedin.com/in/wanda-trinidad-cirone/" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/linkedin-icon.png"> &nbsp;
-<a href="mailto:wandacirone@gmail.com" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/gmail-icon%20green.png">
-</span>
