@@ -26,8 +26,8 @@ Soy muy competitivo y curioso buscando constantemente el desarrollo personal y d
 
 <h1 align="center">Mis skills</h1>
 <p align="center">
-<img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt='Julian Pardeiro' />
-<img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt='Julian Pardeiro' />
+<img width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt='Julian Pardeiro' />
+<img width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt='Julian Pardeiro' />
 <img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt='Julian Pardeiro' />
 <img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt='Julian Pardeiro' />
 <img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt='Julian Pardeiro' />
