@@ -50,8 +50,6 @@ Soy muy competitivo y curioso buscando constantemente el desarrollo personal y d
 <img width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" alt='Julian Pardeiro' />
 <img width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt='Julian Pardeiro' />
 <img width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt='Julian Pardeiro' />
-<img width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" alt='Julian Pardeiro' />
-
 
 
 </p>
@@ -66,9 +64,6 @@ Soy muy competitivo y curioso buscando constantemente el desarrollo personal y d
  </a>
  <a href="https://github.com/Arroxhack/Pi-Dogs">
  <img width="30%" src="Dogs app.png"/>
- </a>
- <a href="https://frontedstore-db.netlify.app/">
- <img width="30%" src="./images/STORE.jpg"/>
  </a>
  </p>
 
