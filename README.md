@@ -61,8 +61,8 @@ Soy muy competitivo y curioso buscando constantemente el desarrollo personal y d
  <h1 align="center">Mis proyectos</h1>
  
 <p align='center'>
-<a href="https://freelancer-db.netlify.app/">
- <img width="30%" src="./RGB STORE.png"/>
+<a href="https://pg-rgb-store-three.vercel.app/">
+ <img width="30%" src="./STORE.jpg"/>
  </a>
  <a href="https://blogcafe-db.netlify.app/">
  <img width="30%" src="./images/CAFE.jpg"/>
@@ -71,20 +71,6 @@ Soy muy competitivo y curioso buscando constantemente el desarrollo personal y d
  <img width="30%" src="./images/STORE.jpg"/>
  </a>
  </p>
-
-<br>
-
-<p align='center'>
-<a href="https://dabarrio-todo-app.netlify.app/">
- <img width="30%" src="./images/todoApp.jpg"/>
- </a>
-<a href="https://dabarrio-pi-dogs.vercel.app/">
- <img width="30%" src="./images/dabarrio-PI.jpg"/>
- </a>
-<a href="https://pg-rgb-store-three.vercel.app/">
- <img width="30%" src="./images/PF.jpg"/>
- </a>
-</p>
 
 <br>
  <h1 align="center">Contacto</h1>
