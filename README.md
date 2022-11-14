@@ -37,7 +37,7 @@ Soy muy competitivo y curioso buscando constantemente el desarrollo personal y d
 <img width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt='Julian Pardeiro' />
   <br><br>
  <img width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt='Julian Pardeiro' />
-<img width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt='Julian Pardeiro' />
+<img width="6%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt='Julian Pardeiro' />
 <img width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt='Julian Pardeiro' />
 <img width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" alt='Julian Pardeiro' />
 <img width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt='Julian Pardeiro' />
@@ -48,6 +48,7 @@ Soy muy competitivo y curioso buscando constantemente el desarrollo personal y d
   <br><br>
 <img width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" alt='Julian Pardeiro' />
 <img width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt='Julian Pardeiro' />
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg
 
 
 </p>
