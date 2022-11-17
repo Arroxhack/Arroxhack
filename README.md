@@ -61,7 +61,7 @@ Soy muy competitivo y curioso buscando constantemente el desarrollo personal y d
 <a href="https://pg-rgb-store-three.vercel.app/">
  <img width="30%" src="./STORE.jpg"/>
  </a>
- <a href="https://github.com/Arroxhack/Pi-Dogs">
+ <a href="https://frontend-dogs-production.up.railway.app">
  <img width="30%" src="Dogs app.png"/>
  </a>
  </p>
