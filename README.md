@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <h3 align="center">I am a Full Stack Developer with qualifications in web design.</h3><br>
 <h3 align="center">I am passionate about programming, music, teaching and constant learning.</h3><br>
 <h3 align="center">Right now I'm searching for a job as a developer (Backend/Frontend/Full Stack).</h3><br>
-<h3 align="center">I'm extremely curious and competitive, constantly going towards my personal development and the ones' around me.</h3><br>
+
 
 
 
