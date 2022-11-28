@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align='center'>Bienvenidos a mi perfil de GitHub, soy Julian Pardeiro!</h1>
+<h1 align='center'Welcome to my GitHub profile, I am Julian Pardeiro!</h1>
 
 <h2 align="center">Full Stack Developer 💻</h2>
 
-<h3 align="center">Mi nombre es Julián Pardeiro, me apasiona programar, la música, la enseñanza y el aprendizaje constante.
-Soy muy competitivo y curioso buscando constantemente el desarrollo personal y de quienes me rodean.</h3><br>
+<h3 align="center">I am a Full Stack Developer with qualifications in web design. I am passionate about programming, music, teaching and constant learning.
+Right now I'm searching for a job as a developer (Backend/Frontend/Full Stack).
+I'm extremely curious and competitive, constantly going towards my personal development and the ones' around me.</h3><br>
 
 
 
