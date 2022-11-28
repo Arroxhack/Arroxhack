@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">Mis skills</h1>
+<h1 align="center">My skills</h1>
 <p align="center">
 <img width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt='Julian Pardeiro' />
 <img width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt='Julian Pardeiro' />
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
- <h1 align="center">Mis proyectos</h1>
+ <h1 align="center">Some of my projects</h1>
  
 <p align='center'>
 <a href="https://pg-rgb-store-three.vercel.app/">
