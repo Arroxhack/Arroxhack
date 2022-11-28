@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
- <h1 align="center">Some of my projects</h1>
+ <h1 align="center">My projects</h1>
  
 <p align='center'>
 <a href="https://pg-rgb-store-three.vercel.app/">
