@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align='center'Welcome to my GitHub profile, I am Julian Pardeiro!</h1>
+<h1 align='center'>Welcome to my GitHub profile, I am Julian Pardeiro!</h1>
 
 <h2 align="center">Full Stack Developer 💻</h2>
 
