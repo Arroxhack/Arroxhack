@@ -68,7 +68,7 @@ Here are some ideas to get you started:
  </p>
 
 <br>
- <h1 align="center">Contacto</h1>
+ <h1 align="center">Contact information</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/julian-pardeiro-20b8b268/">
 <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt='Julian Pardeiro'/>
